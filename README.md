@@ -1,4 +1,17 @@
 # 서울시 구별 5대 강력범죄 연관요소 탐구
+* 만든 사람
+   * 임영진
+      * [Linkedin](https://www.linkedin.com/in/young-jin-lim-b499a0111/)
+      * [Github](https://github.com/limyj0708) / [Github page](https://limyj0708.github.io/)
+   * 박진희
+      * [Github](https://github.com/JinnyPak)
+      
+## 주요 콘텐츠
+   1. 상관계수 분석
+   2. 그래프 시각화
+   3. 지도 시각화
+   4. 회귀분석
+
 ### 발단 : 대림, 구로 등 중국 동포분들이 많은 지역에는 이런 이미지가 박혀 있습니다
 * [대림동, ‘범죄도시’ 이미지 낙인 벗겨낼까](https://moneys.mt.co.kr/news/mwView.php?no=2019032709008061669)
 * ["저희 범죄도시 아니에요" 대림동 차이나타운의 속사정](http://hub.zum.com/fnnews/37938)
