@@ -230,6 +230,7 @@ for_corr.corr(method='pearson')
 * 자치구별 범죄건수를 지도에 시각화 
     - 범죄건수에 따라 자치구의 색의 진한 정도를 다르게 표시
     - 지도의 자치구 영역 위에 마우스를 대면 해당구의 범죄건수를 볼 수 있음
+* Github에서 ipynb 파일을 열면, javascript가 렌더링되지 않아 지도가 표시되지 않습니다. 아래 링크에서 확인 가능합니다.
 * 렌더링 된 지도 페이지 열기
     * [2018년 살인 지도 확인](https://limyj0708.github.io/Five_felony_crimes_seoul_visualization/interactive_map_%EC%82%B4%EC%9D%B8.html)
     * [2018년 강도 지도 확인](https://limyj0708.github.io/Five_felony_crimes_seoul_visualization/interactive_map_%EA%B0%95%EB%8F%84.html)
@@ -239,6 +240,7 @@ for_corr.corr(method='pearson')
 
 * 스크린샷
     * ipython widget을 사용한, 연도/색깔/범죄 종류를 바꿀 수 있는 interactive 지도
+    * jupyter notebook에서 작동
 
         ![스크린샷](https://raw.githubusercontent.com/limyj0708/Five_felony_crimes_seoul_visualization/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C%20%EC%A7%80%EB%8F%84%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.png)
     
