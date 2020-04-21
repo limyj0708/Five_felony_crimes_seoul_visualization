@@ -1,4 +1,5 @@
 # 서울시 구별 5대 강력범죄 연관요소 탐구
+* 진행 기간 : 2019.11.27 ~ 2019.12.04
 * 만든 사람
    * 임영진
       * [Linkedin](https://www.linkedin.com/in/young-jin-lim-b499a0111/)
