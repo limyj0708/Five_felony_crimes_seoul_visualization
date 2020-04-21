@@ -23,7 +23,7 @@
 #### 서울시 구별 중국국적 외국인 수와 5대 범죄 발생건수 연관분석
 
 * 5대 강력범죄?
-    * 살인, 강도, 강간및강제추행, 절도. 폭력
+    * 살인, 강도, 강간및강제추행, 절도, 폭력
 * 사용한 데이터
      * [서울시 5대 범죄 발생현황 통계 (구별) (2014~2018)](http://data.seoul.go.kr/dataList/datasetView.do?infId=316&srvType=S&serviceKind=2&currentPageNo=1)
      * [서울시 등록외국인 현황 (국적별/구별) 통계 (2014~2018)](http://data.seoul.go.kr/dataList/datasetView.do?infId=803&srvType=S&serviceKind=2&currentPageNo=1)
