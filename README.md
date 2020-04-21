@@ -285,7 +285,7 @@ result = model.fit()
 result.summary()
 ```
 
-OLS Regression Results
+* **OLS Regression Results**
 
 |||||
 |:--|:--|:--|:--|
