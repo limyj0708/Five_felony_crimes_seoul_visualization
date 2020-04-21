@@ -289,28 +289,30 @@ OLS Regression Results
 
 |||||
 |:--|:--|:--|:--|
-Dep. Variable:	|합계	|R-squared:	|0.517
-Model:	|OLS	|Adj. R-squared:	|0.502
-Method:	|Least Squares|	F-statistic:	|34.25
-Date:	|Tue, 03 Dec 2019	|Prob (F-statistic):|	3.88e-15
-Time:	|19:05:32|	Log-Likelihood:|	-820.92
-No. Observations:|	100	|AIC:	|1650.
-Df Residuals:|	96	|BIC:	|1660.
-Df Model:|	3	|||	
-Covariance Type:	|nonrobust	|||
+|**Dep. Variable:**|합계	|**R-squared:**|0.517
+|**Model:**|OLS	|**Adj. R-squared:**|0.502
+|**Method:**|Least Squares|**F-statistic:**|34.25
+|**Date:**|Tue, 03 Dec 2019	|**Prob (F-statistic):**|	3.88e-15
+|**Time:**|19:05:32|**Log-Likelihood:**|	-820.92
+|**No. Observations:**|	100	|**AIC:**|1650.
+|**Df Residuals:**|	96	|**BIC:**|1660.
+|**Df Model:**|	3	|||	
+|**Covariance Type:**|nonrobust	|||
 
 
-|||||||
-|:--|:--|:--|:--|:--|:--|
-coef|	std err|	t|	P>t	|[0.025|	0.975]
-Intercept|	3435.0732|	790.867|4.343|	0.000	|1865.214	5004.932|
-인당복지예산|	-1.8037	|0.943|	-1.913|	0.059|	-3.675|	0.068
-이사인구|	0.0247|	0.005|	4.912|	0.000|	0.015|	0.035|
-지하철역수|	67.7401	|14.117	|4.798	|0.000	|39.717	|95.763
-Omnibus:|	2.535	|Durbin-Watson:	|2.478|||
-Prob(Omnibus):|	0.282|	Jarque-Bera (JB):|	1.888||
-Skew:	|-0.161	|Prob(JB):|	0.389||
-Kurtosis:|	2.409|	Cond. No.|	5.69e+05|
+|  |coef|std err|t|P>t| [0.025 | 0.975] |
+|:--|:--|:--|:--|:--|:--|:--|
+|**Intercept**|3435.0732|790.867|4.343|0.000|1865.214|5004.932|
+|**인당복지예산**|-1.8037|0.943|-1.913|0.059|-3.675|0.068|
+|**이사인구**|0.0247|0.005|4.912|0.000|0.015|0.035|
+|**지하철역수**|67.7401|14.117|4.798|0.000|39.717|95.763|
+
+|||||
+|:--|:--|:--|:--|
+|**Omnibus:**|2.535|**Durbin-Watson:**|2.478|
+|**Prob(Omnibus):**|0.282|**Jarque-Bera (JB):**|1.888|
+|**Skew:**|-0.161|**Prob(JB):**|0.389|
+|**Kurtosis:**|2.409|**Cond. No.**|5.69e+05|
 
 
 #### 결과
